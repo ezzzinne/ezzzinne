@@ -5,16 +5,12 @@
 💼 Currently looking out for Frontend Internships  
 🧠 Always learning & building
 
----
-
 ## 🛠 Tech Stack
 - **Technologies:** JavaScript, TypeScript, HTML, CSS
 - **Frameworks:** React, Vite
 - **State Management:** Redux Toolkit, Context API
 - **Styling:** CSS, CSS Modules, Bootstrap
 - **Tools:** Git, GitHub, VS Code, Figma, Vercel
-
----
 
 ## 📌 Featured Projects
 
@@ -25,8 +21,6 @@ A responsive e-commerce frontend with product filters, cart updates, and discoun
 ### 🎮 Quiz Game App
 Interactive quiz app with dynamic questions and categories.  
 [🔗 Live Demo](https://playnaij.onrender.com ) | [📂 Repo](https://github.com/ezzzinne/PlayNaij)
-
----
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ezinne-nwani/)
