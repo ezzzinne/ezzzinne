@@ -3,7 +3,7 @@
 🌐 Frontend Developer (React & TypeScript)  
 🚀 Passionate about building intuitive, user-friendly web interfaces  
 💼 Currently looking out for Frontend Internships  
-🧠 Always learning & building
+🧠 Learning at AltSchoolAfrica
 
 ## 🛠 Tech Stack
 - **Technologies:** JavaScript, TypeScript, HTML, CSS
