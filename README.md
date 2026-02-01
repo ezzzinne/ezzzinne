@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ezinne!
 
-🌐 Frontend Developer
-🧠 Learning at AltSchoolAfrica
+🌐 Frontend Developer  
+🧠 Learning at AltSchoolAfrica  
 🚀 Passionate about building intuitive, user-friendly web interfaces  
 💼 Currently looking out for Frontend Internships  
 
