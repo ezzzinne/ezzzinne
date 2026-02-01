@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Ezinne!
 
-🌐 Frontend Developer (React & TypeScript)  
+🌐 Frontend Developer
+🧠 Learning at AltSchoolAfrica
 🚀 Passionate about building intuitive, user-friendly web interfaces  
 💼 Currently looking out for Frontend Internships  
-🧠 Learning at AltSchoolAfrica
 
 ## 🛠 Tech Stack
 - **Technologies:** JavaScript, TypeScript, HTML, CSS
