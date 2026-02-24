@@ -2,14 +2,14 @@
 
 🌐 Frontend Developer  
 🧠 Learning at AltSchoolAfrica  
-🚀 Passionate about building intuitive, user-friendly web interfaces  
+✍️ Occasional writer  
 💼 Currently looking out for Frontend Internships  
 
 ## 🛠 Tech Stack
-- **Technologies:** JavaScript, TypeScript, HTML, CSS
+- **Technologies:** JavaScript, HTML, CSS
 - **Frameworks:** React, Vite
-- **State Management:** Redux Toolkit, Context API
-- **Styling:** CSS, CSS Modules, Bootstrap
+- **State Management:** SWR, REST API
+- **Styling:** CSS, CSS Modules, Bootstrap, Tailwind, Shadcn
 - **Tools:** Git, GitHub, VS Code, Figma, Vercel
 
 ## 📌 Featured Projects
@@ -26,3 +26,4 @@ Interactive quiz app with dynamic questions and categories.
 - 💼 [LinkedIn](https://www.linkedin.com/in/ezinne-nwani/)
 - 🐦 [Twitter](https://twitter.com/ezzzinne)
 - ✉️ ezinne.nwani22@gmail.com
+- ✍️ [Hashnode](https://ezinnenwani.hashnode.dev/)
